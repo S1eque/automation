@@ -1,0 +1,2 @@
+# automation
+auto tests course
